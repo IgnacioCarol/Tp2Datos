@@ -3,3 +3,4 @@
 *.gz
 *.bin*
 *.model*
+.DS_Store
